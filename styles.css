@@ -1,0 +1,23 @@
+.photo {
+  width: 60%;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  padding: 0.6em;
+  margin-bottom: 1em;
+}
+
+.col .card {
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em;
+}
+
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  border-radius: 0.7em;
+  width: 100%;
+  margin: auto;
+}
